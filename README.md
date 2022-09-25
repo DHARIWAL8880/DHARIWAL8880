@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHARIWAL8880
+- 👋 Hi, I’m Abu Hurarah Dhariwal
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on development projects
